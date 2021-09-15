@@ -4,10 +4,10 @@ Appel aux éditeurs, éditrices, auteurs et autrices du monde entier sur itch.io
 ![affiche de la CyberonConv troisième édition](https://i.imgur.com/Jm4BZnK.jpeg)
 
 ## QU’EST-CE QUE LA CYBERCONV ?
-Une convention de jeu de rôle francophone en ligne  
+**Une convention de jeu de rôle francophone en ligne** 
 La CyberConv est une convention de jeu de rôle francophone qui propose de nombreuses animations accessibles directement avec un ordinateur et internet : des parties de jeu de rôle, un livestream en direct durant toute la convention, des tables rondes, des stands virtuels pour présenter des acteur·ice·s du monde du jeu de rôle, un concours de création de jeu et plus encore…  
 
-Nos précédentes éditions ont eu lieu en 2020, en avril et en novembre. Cet événement a donné lieu à plus de plus de 100 heures de livestream, un serveur Discord dédié rassemblant 4 000 passionnés 4 000 passionnés répartis sur 200 salons de discussion, 300 sessions de jeu et 25 panels réunissant 100 participants. 100 participants. Nous sommes de retour cet automne pour une troisième édition afin de continuer à jouer, à partager et à échanger notre passion pour le jeu de rôle sur table. échanger notre passion pour le jeu de rôle sur table. La prochaine CyberCon aura lieu les 27 et 28 novembre 2021 avec une offre similaire.  
+Les précédentes éditions ont eu lieu en 2020 en avril et en novembre. Ces événements ont donné lieu à plus de plus de 100 heures de livestream, un serveur Discord dédié rassemblant 4 000 passionnés répartis sur 200 salons de discussion, 300 sessions de jeu et 25 panels réunissant 100 participants. 100 participants. Nous sommes de retour cet automne pour une troisième édition afin de continuer à jouer, à partager et à échanger notre passion pour le jeu de rôle sur table. échanger notre passion pour le jeu de rôle sur table. La prochaine CyberCon aura lieu les 27 et 28 novembre 2021 avec une offre similaire.  
 
 Vous souhaitez en savoir plus? 
 - [site web](https://cyberconv.com)
@@ -28,11 +28,11 @@ Nous vous contactons car vous êtes un auteur ou un éditeur de jeux de rôle et
 Pour participer, vos jeux doivent être publiés sur la plateforme [itch.io](https://itch.io/). 
 
 ##  Comment participer ? 
-Contactez-nous par email à l’adresse email [bundlecyberconv@gmail.com](mailto:bundlecyberconv@gmail.com) afin de prendre contact avec l’organisation de cette opération.
+Contactez-nous par email à l’adresse email **[bundlecyberconv@gmail.com](mailto:bundlecyberconv@gmail.com)** afin de prendre contact avec l’organisation de cette opération.
 Vous pouvez participer en proposant un ou plusieurs de vos jeux au format numérique. Tous les formats dématérialisés sont acceptés : epub, pdf, zip.  
 
 Nous sommes ouverts à tous les jeux de l'imaginaire : jeux de rôle, Grandeur Nature, Livre dont vous êtes le héros, etc.. 
-Nous vous recontacterons lorsque la page du bundle solidaire sera publiée sur le site itch.io. Vous pourrez alors y ajouter vos jeux.
+**Nous vous recontacterons lorsque la page du bundle solidaire sera publiée sur le site itch.io. Vous pourrez alors y ajouter vos jeux.**
 
 
 
