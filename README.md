@@ -1,7 +1,7 @@
 # UNE ACTION CARITATIVE PAR LES JEUX DE RÔLES
 Appel aux éditeurs, éditrices, auteurs et autrices du monde entier sur itch.io
 
-[affiche de la CyberonConv troisième édition](https://imgur.com/GO6uz3X)
+![affiche de la CyberonConv troisième édition](https://imgur.com/GO6uz3X)
 
 ## QU’EST-CE QUE LA CYBERCONV ?
 Une convention de jeu de rôle francophone en ligne  
