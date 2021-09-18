@@ -5,10 +5,10 @@ La crise du COVID continue à accroître les inégalités dans le monde entier a
 
 Nous nous associons avec des créateurs de jeux du monde entier pour organiser en novembre 2021 une collecte de fons en faveur de Médecins Sans Frontières. **[Médecins Sans Frontières](https://www.msf.fr/)** est une association médicale humanitaire internationale qui œuvre dans 70 pays pour porter assistance aux populations dont la vie ou la santé est menacée. 
 
-Cette opération débute dès aujourd’hui sur itch.io et se terminera le dimanche 28 novembre 2021.
+Cette opération débute dès aujourd’hui sur itch.io et se terminera **le dimanche 28 novembre 2021**.
 
 ##  Comment participer ? 
-Vous êtes auteur ou éditeur professionnel ou amateur de jeux et cette action caritative vous intéresse ?  Il vous suffit pour participer de publier votre contribution sur le site itch.io et de rejoindre le Bundle Solidaire à cette adresse : XXXX
+Vous êtes auteur ou éditeur professionnel ou amateur de jeux et cette action caritative vous intéresse ?  Il vous suffit pour participer de publier votre contribution sur le site itch.io et de rejoindre le Bundle Solidaire à cette adresse : XXXX (adresse à venir!)
 
 Nous sommes ouverts à tous les jeux qui mettent en ébullition nos imaginaires: jeux de rôle, Grandeur Nature, Livre dont vous êtes le héros, fictions interactives, poèmes à choix multiples, jeux lyriques, jeux rituels, .. 
 
@@ -30,10 +30,10 @@ Vous souhaitez en savoir plus?
 - [youtube](https://www.facebook.com/cyberconv/)
 
 ## Un appel pour un troisième bundle solidaire 
-Dans le cadre de la précédente CyberConv, nous allons réunir un pack de jeux de rôles pour une une initiative de collecte de fonds pour plusieurs associations d'utilité publique. Plus de **26 000 € ont été collectés en 2020** lors des précédentes éditions et les donateurs ont reçu une collection de jeux de rôles numériques.
+Dans le cadre des précédenteq CyberConv, nous avons réunis deux pack de jeux de rôles pour cette initiative de collecte de fonds pour plusieurs associations d'utilité publique : le Secours Populaire, MSF, Handicap International. Plus de **26 000 € ont été collectés en 2020** et les donateurs ont reçu plus de 150 de jeux de rôles au format numérique.
 
 Pour l'édition 2021 de CyberConv, les organisateurs renouvellent cette action de collecte dont tous les dons seront intégralement 
-reversés à **[Médecins Sans Frontières](https://www.msf.fr)
+reversés à **Médecins Sans Frontières**
 
 ![affiche de la CyberonConv troisième édition](https://i.imgur.com/Jm4BZnK.jpeg)
 
