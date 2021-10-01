@@ -8,7 +8,7 @@ Nous nous associons avec des créateurs de jeux du monde entier pour organiser e
 Cette opération débute le lundi 1er novembre et se terminera **le dimanche 28 novembre 2021**.
 
 ##  Comment participer ? 
-Vous êtes auteur ou éditeur professionnel ou amateur de jeux et cette action caritative vous intéresse ?  Il vous suffit pour participer de publier votre contribution sur le site itch.io et de rejoindre le Bundle Solidaire à cette adresse : [https://itch.io/s/55252/solidarity-bundle-for-doctors-without-borders](https://itch.io/s/55252/solidarity-bundle-for-doctors-without-borders)
+Vous êtes auteur ou éditeur professionnel ou amateur de jeux et cette action caritative vous intéresse ?  Il vous suffit pour participer de publier votre contribution sur le site itch.io et de rejoindre le Bundle Solidaire à cette adresse : [https://itch.io/b/1069/cyberconv-bundle-for-doctors-without-borders](https://itch.io/b/1069/cyberconv-bundle-for-doctors-without-borders)
 
 Nous sommes ouverts à tous les jeux qui mettent en ébullition nos imaginaires: jeux de rôle, Grandeur Nature, Livre dont vous êtes le héros, fictions interactives, poèmes à choix multiples, jeux lyriques, jeux rituels, .. 
 
