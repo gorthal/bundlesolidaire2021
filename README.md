@@ -5,7 +5,7 @@ La crise du COVID continue à accroître les inégalités dans le monde entier a
 
 Nous nous associons avec des créateurs de jeux du monde entier pour organiser en novembre 2021 une collecte de fonds en faveur de Médecins Sans Frontières. **[Médecins Sans Frontières](https://www.msf.fr/)** est une association médicale humanitaire internationale qui œuvre dans 70 pays pour porter assistance aux populations dont la vie ou la santé est menacée. 
 
-Cette opération débute dès aujourd’hui sur itch.io et se terminera **le dimanche 28 novembre 2021**.
+Cette opération débute le lundi 1er novembre et se terminera **le dimanche 28 novembre 2021**.
 
 ##  Comment participer ? 
 Vous êtes auteur ou éditeur professionnel ou amateur de jeux et cette action caritative vous intéresse ?  Il vous suffit pour participer de publier votre contribution sur le site itch.io et de rejoindre le Bundle Solidaire à cette adresse : XXXX (adresse à venir!)
